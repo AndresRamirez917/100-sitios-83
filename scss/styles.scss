@@ -238,6 +238,26 @@ img {
             margin: 2rem 0;
         }
        }
+       .stories {
+        .stories-card {
+            .card-1 {
+                margin-bottom: 3rem;
+                img {
+                    width: 50%;
+                }
+                a {
+                    font-size: 2rem;
+                    color: #000;
+                }
+                a:hover {
+                    text-decoration: underline;
+                }
+                p {
+                    margin-top: 2rem;
+                }
+            }
+        }
+       }
     }
     .rigth-panel {
         .rigth-text-1 {

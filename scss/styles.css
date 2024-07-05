@@ -217,6 +217,22 @@ img {
   text-align: justify;
   margin: 2rem 0;
 }
+#content-panels-2 .left-panel .stories .stories-card .card-1 {
+  margin-bottom: 3rem;
+}
+#content-panels-2 .left-panel .stories .stories-card .card-1 img {
+  width: 50%;
+}
+#content-panels-2 .left-panel .stories .stories-card .card-1 a {
+  font-size: 2rem;
+  color: #000;
+}
+#content-panels-2 .left-panel .stories .stories-card .card-1 a:hover {
+  text-decoration: underline;
+}
+#content-panels-2 .left-panel .stories .stories-card .card-1 p {
+  margin-top: 2rem;
+}
 #content-panels-2 .rigth-panel .rigth-text-1 {
   margin-top: 1rem;
 }
