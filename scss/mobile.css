@@ -1,1 +1,45 @@
-/*# sourceMappingURL=mobile.css.map */
+#mainheader .navbar .logo {
+  width: 300px;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 1rem;
+}
+#mainheader .navbar ul {
+  display: block;
+  margin: 0;
+}
+#mainheader .navbar li {
+  text-align: left;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+#mainheader .navbar .container {
+  display: block;
+}
+
+#mainheader-2 .navbar-2 ul li {
+  display: none;
+}
+
+#content-panels {
+  display: block;
+}
+#content-panels .left-panel .row-flex {
+  display: block;
+}
+#content-panels .left-panel .row-flex .card {
+  margin-bottom: 2rem;
+}
+#content-panels .rigth-panel .rigth-text-1 ul {
+  list-style: circle;
+  padding: 20px;
+  text-align: left;
+}
+#content-panels .rigth-panel .rigth-text-2 .items-flex {
+  margin: 0 auto;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}/*# sourceMappingURL=mobile.css.map */
