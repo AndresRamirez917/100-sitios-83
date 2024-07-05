@@ -31,12 +31,43 @@
 #content-panels .left-panel .row-flex .card {
   margin-bottom: 2rem;
 }
+#content-panels .left-panel .credits .credits-row {
+  display: block;
+}
+#content-panels .left-panel .credits .credits-row .credits-row1 {
+  width: 80%;
+  margin: 0 auto;
+  padding-bottom: 2rem;
+  text-align: justify;
+}
 #content-panels .rigth-panel .rigth-text-1 ul {
   list-style: circle;
   padding: 20px;
   text-align: left;
 }
 #content-panels .rigth-panel .rigth-text-2 .items-flex {
+  margin: 0 auto;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+#content-panels-2 {
+  display: block;
+}
+#content-panels-2 .left-panel .row-flex {
+  display: block;
+}
+#content-panels-2 .left-panel .row-flex .card {
+  margin-bottom: 2rem;
+}
+#content-panels-2 .rigth-panel .rigth-text-1 ul {
+  list-style: circle;
+  padding: 20px;
+  text-align: left;
+}
+#content-panels-2 .rigth-panel .rigth-text-2 .items-flex {
   margin: 0 auto;
   width: 100%;
   display: flex;

@@ -43,6 +43,50 @@
             margin-bottom: 2rem;
         }
        }
+       .credits {
+        .credits-row {
+        display: block;
+        .credits-row1 {
+            width: 80%;
+            margin: 0 auto;
+            padding-bottom: 2rem;
+            text-align: justify;
+        }
+        }
+       }
+    }
+    .rigth-panel {
+        .rigth-text-1 {
+            ul {
+                list-style: circle;
+              padding: 20px;
+              text-align: left;
+            }
+        }
+        .rigth-text-2 {
+            .items-flex {
+                margin: 0 auto;
+                width: 100%;
+                display: flex;
+                flex-wrap: wrap;
+                gap: 10px;
+            }
+        }
+    }
+ 
+}
+
+//content-panels-2
+//content-panels
+#content-panels-2 {
+    display: block;
+    .left-panel {
+       .row-flex {
+        display: block;
+        .card {
+            margin-bottom: 2rem;
+        }
+       }
     }
     .rigth-panel {
         .rigth-text-1 {
